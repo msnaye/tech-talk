@@ -1,0 +1,25 @@
+{
+  "name": "tech-talk",
+  "version": "1.0.0",
+  "description": "##",
+  "main": "server.js",
+  "start": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msnaye/tech-talk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msnaye/tech-talk/issues"
+  },
+  "homepage": "https://github.com/msnaye/tech-talk#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.1"
+  }
+}
